@@ -2,9 +2,8 @@
 layout: default
 img: blocitoff2.png
 category: Services
-title: Blocitoff:<br>A self-destructing to-do list!
-description: |
+title: Blocitoff:<br>A self-destructing to-do list
+description: 
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Blocitoff allows users to create self-destructing to-do lists. Items are automatically deleted after seven days. The hypothesis is that if the to-do items is not important enough to be completed after seven days, it doesn’t belong on your to-do list.
+
