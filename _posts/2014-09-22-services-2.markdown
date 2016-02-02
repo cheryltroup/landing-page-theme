@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: blocitoff2.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Blocitoff:<br>A self-destructing to-do list!
 description: |
 ---
   Turn your 2D designs into high quality, 3D
