@@ -6,6 +6,7 @@ title: Xpedia a Wiki Collaboration
 description: |
 project: xpedia
 ---
+
 A SaaS application that allows users to create their own wikis. Wikis are a great way to collaborate on community-sourced content. Whether the wiki is for a hobby or work-related project. The application lets users create their own wikis and share them publicly or privately with other collaborators. Access to privates wikis with upgraded membership.
 
 
@@ -25,6 +26,7 @@ A SaaS application that allows users to create their own wikis. Wikis are a grea
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
 **Development Tools, Gems and Methodologies:**
+
 * Devise for user authentication
 * SendGrid for email confirmation
 * Pundit for authorization

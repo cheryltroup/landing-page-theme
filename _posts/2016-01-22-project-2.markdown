@@ -5,8 +5,8 @@ category: Portfolio
 title: Blocitoff:<br>A self-destructing to-do list!</br>
 description: 
 project: blocitoff
-
 ---
+
 Blocitoff allows users to create self-destructing to-do lists. Items are automatically deleted after seven days. The hypothesis is that if the to-do items is not important enough to be completed after seven days, it doesn’t belong on your to-do list. 
 
 ## Features
@@ -20,6 +20,7 @@ Blocitoff allows users to create self-destructing to-do lists. Items are automat
 **Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap
 
 **Development Tools:** 
+
 * Devise for user authentication
 * Sendgrid for email confirmation
 * Heroku scheduler for rake automation
