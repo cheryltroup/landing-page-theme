@@ -25,7 +25,6 @@ A SaaS application that allows users to create their own wikis. Wikis are a grea
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
 **Development Tools, Gems and Methodologies:**
-
 * Devise for user authentication
 * SendGrid for email confirmation
 * Pundit for authorization

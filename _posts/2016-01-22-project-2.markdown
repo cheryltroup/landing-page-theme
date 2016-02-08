@@ -20,7 +20,6 @@ Blocitoff allows users to create self-destructing to-do lists. Items are automat
 **Languages, Libraries, and Frameworks:** Ruby on Rails, Bootstrap
 
 **Development Tools:** 
-
 * Devise for user authentication
 * Sendgrid for email confirmation
 * Heroku scheduler for rake automation

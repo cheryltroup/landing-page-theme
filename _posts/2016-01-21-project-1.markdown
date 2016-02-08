@@ -20,7 +20,6 @@ A Reddit replica that lets users post, vote on, share and save links and comment
 **Databases:** SQLite (Test, Development), PostgreSQL (Production)
 
 **Development Tools:** 
-
 * Test-Driven Development: RSpec, Capybara, FactoryGirl
 * Amazon Web Services for image storage
 * Devise for user authentication
